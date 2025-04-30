@@ -3,6 +3,7 @@
 ##**Proposta**
 
 - Etapa 1
+
     Escolher uma base de dados com no mínimo 400 instâncias e no mínimo 8 atributos, 
     incluindo o atributo classe (alvo). 
 
@@ -12,6 +13,7 @@
     trabalho disponível na internet, ou tampouco não necessitar dela.
 
 - Etapa 2
+
     Escolher pelo menos 2 algoritmos para 2 das 4 tarefas de Mineração de Dados 
     (Classificação, Regressão, Agrupamento e Associação) e aplicá-los. Apresentar 
     documentação completa no Google Colab. Interpretar os resultados e concluir a 
