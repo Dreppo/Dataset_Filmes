@@ -18,3 +18,6 @@
     (Classificação, Regressão, Agrupamento e Associação) e aplicá-los. Apresentar 
     documentação completa no Google Colab. Interpretar os resultados e concluir a 
     pesquisa, incluindo Visualização dos Dados/Resultados. 
+
+
+    [Projeto de visualização no colab](https://colab.research.google.com/drive/1P5kyoopQMvyFdXTrqM-E_rsjXcscHvdZ?usp=sharing)
