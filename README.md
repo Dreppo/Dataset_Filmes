@@ -1,6 +1,6 @@
 # Atividade de mineração de dados 
 
-##**Proposta**
+## **Proposta**
 
 - Etapa 1
 
